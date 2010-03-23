@@ -79,8 +79,8 @@ my $builder = $class->new(
         'Test::More'       => 0,
     },
     requires => {
-        #  template_toolkit_compat support first introduced in 1.02_01.
-        'Template::Sandbox' => '1.02_01',
+        #  template_toolkit_compat support first introduced in 1.03.
+        'Template::Sandbox' => '1.03',
         'Dancer'            => 0,
     },
     sign => 1,
