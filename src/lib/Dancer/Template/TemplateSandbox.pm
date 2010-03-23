@@ -7,7 +7,7 @@ use Dancer::FileUtils 'path';
 
 use base 'Dancer::Template::Abstract';
 
-our $VERSION = '0.99_01';
+our $VERSION = '0.99_02';
 
 my %_template_config;
 
