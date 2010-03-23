@@ -126,17 +126,14 @@ __END__
 
 =head1 NAME
 
-Dancer::Template::TemplateSandbox - Template Toolkit wrapper for Dancer
+Dancer::Template::TemplateSandbox - Template::Sandbox wrapper for Dancer
 
 =head1 DESCRIPTION
 
 This class is an interface between Dancer's template engine abstraction layer
 and the L<Template::Sandbox> module.
 
-This template engine is recomended for production purproses, but depends on the
-Template::Sandbox module.
-
-In order to use this engine, set the following setting as the following:
+In order to use this engine, set the following setting:
 
     template: template_sandbox
 
