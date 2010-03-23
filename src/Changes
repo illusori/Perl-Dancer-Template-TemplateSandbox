@@ -1,6 +1,6 @@
 Revision history for Dancer-Template-TemplateSandbox
 
-0.99_02 Version released at .  *** Development version. ***
+0.99_02 Version released at 2010-03-23-14:19.  *** Development version. ***
         Version started at  2010-03-23-14:12.
         Required a non-devel version of Template::Sandbox.
         Corrected abstract to refer to Template::Sandbox.
